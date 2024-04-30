@@ -1,0 +1,3 @@
+batchsize=100
+epochs=20
+seed=1
